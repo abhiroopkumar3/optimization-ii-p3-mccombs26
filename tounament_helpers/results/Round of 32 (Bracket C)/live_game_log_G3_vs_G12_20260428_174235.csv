@@ -1,0 +1,36 @@
+move_number,team,piece,column,source,recommendation,recommendation_reason
+1,G12,X,2,opponent_input,,
+2,G3,O,3,model_recommendation,3.0,Model argmax recommendation
+3,G12,X,3,opponent_input,,
+4,G3,O,2,model_recommendation,2.0,Model argmax recommendation
+5,G12,X,3,opponent_input,,
+6,G3,O,3,model_recommendation,3.0,Model argmax recommendation
+7,G12,X,2,opponent_input,,
+8,G3,O,2,model_recommendation,2.0,Model argmax recommendation
+9,G12,X,3,opponent_input,,
+10,G3,O,6,model_recommendation,6.0,Model argmax recommendation
+11,G12,X,4,opponent_input,,
+12,G3,O,6,model_recommendation,6.0,Model argmax recommendation
+13,G12,X,3,opponent_input,,
+14,G3,O,6,model_recommendation,6.0,Model argmax recommendation
+15,G12,X,6,opponent_input,,
+16,G3,O,2,model_recommendation,2.0,Model argmax recommendation
+17,G12,X,2,opponent_input,,
+18,G3,O,0,model_recommendation,0.0,Model argmax recommendation
+19,G12,X,1,opponent_input,,
+20,G3,O,0,model_recommendation,0.0,Model argmax recommendation
+21,G12,X,1,opponent_input,,
+22,G3,O,0,model_recommendation,0.0,Model argmax recommendation
+23,G12,X,0,opponent_input,,
+24,G3,O,6,model_recommendation,6.0,Model argmax recommendation
+25,G12,X,6,opponent_input,,
+26,G3,O,5,model_recommendation,5.0,Model argmax recommendation
+27,G12,X,5,opponent_input,,
+28,G3,O,5,model_recommendation,5.0,Model argmax recommendation
+29,G12,X,5,opponent_input,,
+30,G3,O,5,model_recommendation,5.0,Model argmax recommendation
+31,G12,X,5,opponent_input,,
+32,G3,O,0,model_recommendation,0.0,Model argmax recommendation
+33,G12,X,0,opponent_input,,
+34,G3,O,1,model_recommendation,1.0,Model argmax recommendation
+35,G12,X,1,opponent_input,,
