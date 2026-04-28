@@ -1,0 +1,7 @@
+,Riju_M1_original,PG_improved_Riju,DQN_agent,Jake_original,Abhiroop_CNN,Random
+Riju_M1_original,,0.0,1.0,1.0,1.0,1.0
+PG_improved_Riju,0.5,,1.0,0.5,1.0,1.0
+DQN_agent,0.0,0.0,,0.0,0.0,0.58
+Jake_original,0.0,0.5,1.0,,0.5,1.0
+Abhiroop_CNN,0.0,0.0,1.0,0.0,,1.0
+Random,0.0,0.0,0.33,0.0,0.0,

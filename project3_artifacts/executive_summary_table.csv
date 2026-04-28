@@ -1,0 +1,4 @@
+model,strength_vs_original_M1,strength_vs_random,interpretation
+Original M1,0.5,1.0,Strong tactical baseline
+PG Improved,0.5,1.0,RL policy-gradient refinement
+DQN,0.0,0.62,Value-based RL policy

@@ -1,0 +1,4 @@
+agent,win_rate_vs_original_M1,win_rate_vs_random,avg_moves_vs_original_M1,avg_moves_vs_random
+Original M1,0.5,1.0,35.0,9.7
+PG Improved,0.5,1.0,41.0,9.36
+DQN,0.0,0.62,16.5,18.62

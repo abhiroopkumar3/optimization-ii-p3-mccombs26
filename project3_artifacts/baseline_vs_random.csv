@@ -1,0 +1,4 @@
+agent_a,agent_b,n_games,a_wins,b_wins,draws,a_win_rate,b_win_rate,draw_rate,avg_moves,a_wins_as_p1,a_wins_as_p2
+Jake_M1_original,Random,100,100,0,0,1.0,0.0,0.0,9.4,50,50
+Abhiroop_CNN,Random,100,100,0,0,1.0,0.0,0.0,9.96,50,50
+Riju_CNN,Random,100,100,0,0,1.0,0.0,0.0,9.96,50,50
